@@ -7,4 +7,9 @@ class Tabien extends BackendController
     {
         $this->template('tabien/index', $this->data, true);
     }
+
+    public function create()
+    {
+        $this->template('tabien/create', $this->data, true);
+    }
 }

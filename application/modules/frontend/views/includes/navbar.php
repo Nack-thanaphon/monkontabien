@@ -23,8 +23,8 @@
                     </div>
                     <div class="d-flex justify-content-between col-12 col-sm-4  m-0 p-0 mt-2 mt-sm-0">
                         <!-- <div class="my-auto"><i class="fas fa-cart-arrow-down"><span></span></i></div> -->
-                        <a href="<?php echo base_url('Backend') ?>" class="btn btn-success w-100 m-1">สมัครสมาชิก</a>
-                        <div class=" btn btn-transparent text-success border border-success w-100 m-1">เข้าสู่ระบบ</div>
+                        <a href="<?php echo base_url('backend/Auth/register') ?>" class="btn btn-success w-100 m-1">สมัครสมาชิก</a>
+                        <a href="<?php echo base_url('backend/Auth') ?>" class=" btn btn-transparent text-success border border-success w-100 m-1">เข้าสู่ระบบ</a>
                     </div>
 
                 </div>
