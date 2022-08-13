@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/monkontabien';
+$config['base_url'] = 'https://bebf-2001-44c8-4208-c054-81c2-e671-adea-53e2.ngrok.io/monkontabien';
 
 /*
 |--------------------------------------------------------------------------

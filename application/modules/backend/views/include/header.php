@@ -17,6 +17,7 @@
 
     <!-- Custom styles for this template-->
     <link href="<?php echo base_url('issets/dist/css/sb-admin-2.min.css')  ?>" rel="stylesheet">
+    <link href="<?php echo base_url('issets/dist/css/style.css')  ?>" rel="stylesheet">
 
 </head>
 

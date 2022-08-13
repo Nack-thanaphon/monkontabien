@@ -74,7 +74,8 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">35 / แผ่น</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                        <i class="fas fa-car-side fa-3x text-gray-300"></i>
+                         
                         </div>
                     </div>
                 </div>
@@ -90,7 +91,7 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">40,000 / บาท</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                            <i class="fas fa-money-bill fa-3x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
@@ -106,7 +107,7 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">20/ท่าน</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                            <i class="fas fa-user-friends fa-3x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
@@ -122,7 +123,7 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">215,000/ครั้ง</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                            <i class="fas fa-eye fa-2x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
@@ -149,7 +150,7 @@
                             </div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                            <i class="fas fa-user-clock fa-3x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
