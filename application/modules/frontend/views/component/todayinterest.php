@@ -14,162 +14,231 @@
         </div>
         <div class="col-12  my-3  m-0 p-0 ">
             <div class="slider2   p-0 m-0 text-start">
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+            <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="m-1">
-                    <div class="items card p-sm-2 p-1 ">
-                        <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                        <div class="m-1">
-                            <span class="badge rounded-pill bg-success">เลขเด่น</span>
-                            <h3 class="fw-bold my-2 ">9กค1680</h3>
-                            <small class="p-0 m-0">เข้าชม | 150000 ครั้ง </small> <br>
-                            <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                            <br>
-                            <a href="http://">ดูผลการวิเคราะห์</a>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
                         </div>
                     </div>
-                </div>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="m-1">
+                        <div class="items card p-sm-2 p-1 ">
+                        <span class="badge rounded-pill bg-primary status">เลขเด่น</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <div class="m-1">
+                                <h6> ทะเบียนเลขคู่</h6>
+                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
+                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
+                                <br>
+                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
+                                <br>
+
+                                <a href="http://">ดูผลการวิเคราะห์</a>
+                            </div>
+                        </div>
+                    </div>
+
 
             </div>
         </div>
@@ -186,7 +255,7 @@
         responsive: [{
             breakpoint: 768,
             settings: {
-                slidesToShow: 2,
+                slidesToShow: 1,
                 centerMode: false,
                 /* set centerMode to false to show complete slide instead of 3 */
                 slidesToScroll: 1

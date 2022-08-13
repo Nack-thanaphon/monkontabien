@@ -1,6 +1,6 @@
 <div class="row m-0 p-0">
     <div class="col-6 m-0 p-0">
-        <h3 class="text-start fw-bold">บทความเกี่ยวกับรถ</h3>
+        <h3 class="text-start fw-bold">บทความ</h3>
     </div>
     <div class="col-6 m-0 p-0">
         <a href="http://" target="_blank" rel="noopener noreferrer">

@@ -1,3 +1,17 @@
+<style>
+    .lazy {
+        position: relative;
+    }
+
+    .status {
+        position: absolute;
+        top: 10;
+        z-index: 10;
+        margin: 10px;
+    }
+</style>
+
+
 <div class="col-12 ">
     <div class="col-12 m-1">
         <div class="row mx-auto d-sm-flex justify-content-between">
@@ -12,7 +26,7 @@
                                 <b class="m-0 p-0">หมายเลข : กข78960 </b>
                                 <br>
                                 <small class="m-0 p-0">
-                                    ระดับ : premium
+                                    
                                     <span class="text-white badge bg-primary">
                                         <i class="fas fa-money-bill-wave-alt"></i> จองแล้ว
                                     </span>
@@ -23,7 +37,7 @@
                                 <b class="m-0 p-0">หมายเลข : กข78960 </b>
                                 <br>
                                 <small class="m-0 p-0">
-                                    ระดับ : premium
+                                    
                                     <span class="text-white badge bg-success">
                                         <i class="fas fa-check-circle"></i></i> ขายแล้ว
                                     </span>
@@ -33,7 +47,7 @@
                                 <b class="m-0 p-0">หมายเลข : กข78960 </b>
                                 <br>
                                 <small class="m-0 p-0">
-                                    ระดับ : premium
+                                    
                                     <span class="text-white badge bg-success">
                                         <i class="fas fa-check-circle"></i></i> ขายแล้ว
                                     </span>
@@ -43,7 +57,7 @@
                                 <b class="m-0 p-0">หมายเลข : กข78960 </b>
                                 <br>
                                 <small class="m-0 p-0">
-                                    ระดับ : premium
+                                    
                                     <span class="text-white badge bg-success">
                                         <i class="fas fa-check-circle"></i></i> ขายแล้ว
                                     </span>
@@ -53,7 +67,7 @@
                                 <b class="m-0 p-0">หมายเลข : กข78960 </b>
                                 <br>
                                 <small class="m-0 p-0">
-                                    ระดับ : premium
+                                    
                                     <span class="text-white badge bg-success">
                                         <i class="fas fa-check-circle"></i></i> ขายแล้ว
                                     </span>
@@ -64,7 +78,7 @@
                 </div>
 
             </div>
-            <div class="col-12 col-sm-9 border  px-3 shadow-sm bg-white  m-0 p-0 py-4 ">
+            <div class="col-12 col-sm-9   px-sm-3  bg-white-sm  m-0 p-0 py-4 ">
                 <div class="row m-0  p-0">
                     <div class="col-6 m-0 p-0">
                         <h3 class="text-start fw-bold">ทะเบียนเข้าใหม่</h3>
@@ -78,9 +92,10 @@
                 <div class="slider  p-0 m-0 text-start">
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -93,9 +108,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -108,9 +124,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -123,9 +140,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -138,9 +156,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -153,9 +172,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -168,9 +188,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -183,24 +204,10 @@
                     </div>
                     <div class="m-1">
                         <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
+                            <span class="badge rounded-pill bg-success status">เข้าใหม่</span>
+                            <img class="lazy w-100" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
                             <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
-                                <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
-                                <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
-                                <br>
-                                <small>ผลรวม: 20 | <span class="text-primary"> ดีมาก</span></small>
-                                <br>
-
-                                <a href="http://">ดูผลการวิเคราะห์</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="m-1">
-                        <div class="items card p-sm-2 p-1 ">
-                            <img class="lazy" src="<?= base_url('issets/img/tag/02.jpg') ?>" alt="">
-                            <div class="m-1">
-                                <h6><span class="badge rounded-pill bg-success">เข้าใหม่</span> ทะเบียนเลขคู่</h6>
+                                <h6> ทะเบียนเลขคู่</h6>
                                 <h4 class="fw-bold p-0 m-0"> ราคา 150000 บาท</h4>
                                 <small>ราคาปกติ <del class="text-muted"> 1000000 บาท</del></small>
                                 <br>
@@ -233,7 +240,7 @@
         responsive: [{
             breakpoint: 768,
             settings: {
-                slidesToShow: 2,
+                slidesToShow: 1,
                 centerMode: false,
                 /* set centerMode to false to show complete slide instead of 3 */
                 slidesToScroll: 1

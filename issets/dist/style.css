@@ -61,7 +61,7 @@ nav b {
 
 @media screen and (max-width: 650px) {
   .items img {
-    height: 90px;
+    height: 100%;
   }
 }
 .fg {

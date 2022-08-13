@@ -5,18 +5,18 @@
 					<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-								<img class="lazy" src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100" alt="...">
+								<img  src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100 lazy" alt="...">
 							</div>
 							<div class="carousel-item">
-								<img class="lazy" src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100" alt="...">
+								<img  src="<?php echo base_url('issets/img/banner/02.png') ?>" class="d-block w-100 lazy" alt="...">
 
 							</div>
 							<div class="carousel-item">
-								<img class="lazy" src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100" alt="...">
+								<img  src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100 lazy" alt="...">
 
 							</div>
 							<div class="carousel-item">
-								<img class="lazy" src="<?php echo base_url('issets/img/banner/01.jpg') ?>" class="d-block w-100" alt="...">
+								<img  src="<?php echo base_url('issets/img/banner/02.png') ?>" class="d-block w-100 lazy" alt="...">
 
 							</div>
 						</div>

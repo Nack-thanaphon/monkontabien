@@ -41,7 +41,7 @@ class BackendController extends MY_Controller
 
         // This function returns the main CodeIgniter object.
         // Normally, to call any of the available CodeIgniter object or pre defined library classes then you need to declare.
-        $CI =& get_instance();
+        $CI = &get_instance();
 
         //Example data
         // Site name
@@ -67,12 +67,10 @@ class BackendController extends MY_Controller
     protected function template($template_name, $data, $return)
     {
         if ($return === true) {
-            $content  = $this->load->view('templates/header', $this->data);
-            $content .= $this->load->view('templates/main_header', $this->data);
-            $content .= $this->load->view('templates/main_sidebar', $this->data);
+            $content  = $this->load->view('include/header', $this->data);
+            $content .= $this->load->view('include/navbar', $this->data);
             $content .= $this->load->view($template_name, $this->data);
-            $content .= $this->load->view('templates/footer', $this->data);
-            $content .= $this->load->view('templates/control_sidebar', $this->data);
+            $content .= $this->load->view('include/footer', $this->data);
             return $content;
         } else {
             $this->load->view($template_name, $this->data);
