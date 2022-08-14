@@ -9,7 +9,7 @@
                 <div class="card-body">
                     <h4 class="card-title m-0">เพิ่มข้อมูลทะเบียนรถ</h4>
                 </div>
-                <form action="<?php echo base_url('backend/tabien/add_tabien') ?>" method="post" enctype="multipart/form-data">
+                <form action="<?php echo base_url('backend/tabien/add_tabien') ?>" method="post">
                     <div class="my-1 p-3 row">
                         <div class="col-12 col-sm-6">
                             <label for="">เลขทะเบียน</label>
@@ -20,8 +20,7 @@
                                 <label for="">อัพโหลดรูปภาพ</label>
                                 <div class="input-group">
                                     <div class="custom-file">
-                                        <input type="file" name="tabienfile[]" class="custom-file-input" multiple="multiple">
-
+                                        <input type="file" name="" class="custom-file-input" id="inputGroupFile04">
                                         <label class="custom-file-label" for="inputGroupFile04">Choose file</label>
                                     </div>
                                 </div>
@@ -70,7 +69,7 @@
                                 </select>
                             </div>
                             <div class="input-group mb-3 ">
-                                <button class="btn btn-primary w-100" type="submit" value="submit">บันทึกข้อมูล</button>
+                                <button class="btn btn-primary w-100">บันทึกข้อมูล</button>
                             </div>
                         </div>
                     </div>

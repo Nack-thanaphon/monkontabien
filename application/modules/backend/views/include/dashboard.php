@@ -56,7 +56,7 @@
                     </div>
                     <h4 class="small font-weight-bold">สำเร็จ <span class="float-right">50/คน</span></h4>
                     <div class="progress mb-4">
-                        <div class="progress-bar bg-success" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bg-success" role="progressbar" style="width: 60%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>

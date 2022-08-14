@@ -35,7 +35,7 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">จัดการทะเบียน</h6>
-                <a class="collapse-item" href="<?php echo base_url('backend/tabien') ?>">เพิ่มแก้ไขทะเบียน</a>
+                <a class="collapse-item" href="<?php echo base_url('backend/tabien') ?>">เพิ่ม-แก้ไขทะเบียน</a>
                 <a class="collapse-item" href="cards.html">สถิติทะเบียน</a>
             </div>
         </div>
